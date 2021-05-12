@@ -16,10 +16,10 @@ Check it out: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorF
 <blockquote>Mini-batch Gradient Descents</blockquote>
 
 <h3>Section: Polynomial Regression</h3>
-<blockquote>Transforming the data with polynomail features</blockquote>
+<blockquote>Transforming The Data With Polynomail Features</blockquote>
 
 <h3>Section: Learning Curves</h3>
-<blockquote>Plot model performance of plain linear regression and polynomial regression</blockquote>
+<blockquote>Plot model Performance Of Plain Linear Regression And Polynomial Regression</blockquote>
 <blockquote>The Bias/Variance Trade-off</blockquote>
 
 <h3>Section: Regularized Linear Models</h3>
